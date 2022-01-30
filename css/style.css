@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+body .splash {
+  background-color: #eee5e5;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+}
+
+body .splash .splash-inner {
+  background-color: #eee5e5;
+  margin: auto;
+  max-width: 50%;
+  font-size: 18px;
+  height: 100%;
+}
+/*# sourceMappingURL=style.css.map */
